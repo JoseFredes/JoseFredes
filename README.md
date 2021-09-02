@@ -7,16 +7,16 @@ I'm Computer science enthusiast
 
 ---
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseFredes&show_icons=true&theme=dracula" />
+
+
+
+
+
+
+
+
+
 ---
-
-
-
-
-
-
-
-
-
 ### Social media
 
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
