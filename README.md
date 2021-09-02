@@ -7,7 +7,7 @@ I'm Computer science enthusiast
 
 ---
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseFredes&show_icons=true&theme=dracula" />
-----
+---
 
 
 
