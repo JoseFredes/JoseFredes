@@ -2,9 +2,10 @@
 I'm Computer science enthusiast
  
 
-
-<img align="center" alt="GIF" src="https://media3.giphy.com/media/jdFm2bcWlj4EUVCpc0/giphy.gif?cid=ecf05e47j569uca3a5zlgt7mydb3jvr50umwe2o9w9kwo3qn&rid=giphy.gif&ct=g" />
-</br>
+<div aling="center">
+ <img  alt="GIF" src="https://media3.giphy.com/media/jdFm2bcWlj4EUVCpc0/giphy.gif?cid=ecf05e47j569uca3a5zlgt7mydb3jvr50umwe2o9w9kwo3qn&rid=giphy.gif&ct=g" />
+</div>
+ </br>
 </br>
 
 ### Tools
