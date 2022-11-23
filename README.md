@@ -19,13 +19,13 @@ Cs Student
 
 </br>
 </br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=JoseFredes&show_icons=true&theme=dracula" />
+<!--<><img align="left" src="https://github-readme-stats.vercel.app/api?username=JoseFredes&show_icons=true&theme=dracula" />
 
-### Social media
+<>### Social media
 
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  color="white"/>][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/jos%C3%A9-fredes-615071173/
+[linkedin]: https://www.linkedin.com/in/jos%C3%A9-fredes-615071173/--->
 
 
 
