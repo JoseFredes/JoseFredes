@@ -1,5 +1,5 @@
 ### Hi I'm José Fredes!
-Cs Student
+Cs Student and Software engineer 
  
 
 <div aling="center">
