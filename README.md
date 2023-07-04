@@ -1,5 +1,7 @@
 ### Hi I'm José Fredes!
 Cs Student and Software engineer 
+
+Blockchain and Quantum computing enthusiast 🚀
  
 
 <div aling="center">
