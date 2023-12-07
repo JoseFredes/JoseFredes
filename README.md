@@ -10,18 +10,6 @@ Blockchain and Quantum computing enthusiast 🚀
  </br>
 </br>
 
-### Tools
-<p aling= "center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-</p>
-
-
-</br>
-</br>
-<!--<><img align="left" src="https://github-readme-stats.vercel.app/api?username=JoseFredes&show_icons=true&theme=dracula" />
 
 <>### Social media
 
