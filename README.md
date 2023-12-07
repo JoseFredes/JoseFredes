@@ -11,7 +11,7 @@ Blockchain and Quantum computing enthusiast 🚀
 </br>
 
 
-<>### Social media
+### Social media
 
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  color="white"/>][linkedin]
 
