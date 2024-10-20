@@ -15,13 +15,6 @@ Blockchain and Quantum computing enthusiast 🚀
 ![José Fredes Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFredes&theme=gotham&&layout=compact&custom_title=Github%20Repo's%20Top%20Languages&langs_count=10&hide=jupyter%20notebook)
 
 
-### Social media
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  color="white"/>][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/jos%C3%A9-fredes-615071173/--->
-
-
-
 
 
 
