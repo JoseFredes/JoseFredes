@@ -12,8 +12,8 @@ Blockchain and Quantum computing enthusiast 🚀
 <br>
 <br>
 
-![José Fredes Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFredes&theme=gotham&&layout=compact&custom_title=Github%20Repo's%20Top%20Languages&langs_count=10&hide=jupyter%20notebook)
-![](https://github-readme-stats.vercel.app/api?username=JoseFredes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![José Fredes Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFredes&theme=dark&&layout=compact&custom_title=Github%20Repo's%20Top%20Languages&langs_count=10&hide=jupyter%20notebook&hide_border=true)
+![José Fredes Stats](https://github-readme-stats.vercel.app/api?username=JoseFredes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 
 
