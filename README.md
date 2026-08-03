@@ -1,7 +1,7 @@
 ### Hi I'm José Fredes!
-Software engineer 
+Software engineer | AI engineer 🚀
 
-Blockchain and Quantum computing enthusiast 🚀
+Quantum computing enthusiast 🚀
  
 
 <div align="center">
