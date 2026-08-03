@@ -98,22 +98,53 @@ const jose = {
 
 ### 📌 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/JoseFredes/mcp-inventory">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseFredes&repo=mcp-inventory&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/JoseFredes/recall-sdk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseFredes&repo=recall-sdk&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/JoseFredes/openclaw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseFredes&repo=openclaw&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/JoseFredes/strudel-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseFredes&repo=strudel-ai&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+#### 🔍 [mcp-inventory](https://github.com/JoseFredes/mcp-inventory)
 
-</div>
+Read-only inventory of the MCP tools your agents actually have loaded.
+
+![stars](https://img.shields.io/github/stars/JoseFredes/mcp-inventory?style=flat-square&color=7C3AED&labelColor=0D1117)
+![lang](https://img.shields.io/github/languages/top/JoseFredes/mcp-inventory?style=flat-square&color=3178C6&labelColor=0D1117)
+![npm](https://img.shields.io/badge/npm-published-CB3837?style=flat-square&labelColor=0D1117)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛡️ [recall-sdk](https://github.com/JoseFredes/recall-sdk)
+
+Signed Memory BOM SDK — detect, trace to patient zero, and cascade-quarantine memory poisoning across an AI agent fleet (OWASP ASI06).
+
+![stars](https://img.shields.io/github/stars/JoseFredes/recall-sdk?style=flat-square&color=7C3AED&labelColor=0D1117)
+![lang](https://img.shields.io/github/languages/top/JoseFredes/recall-sdk?style=flat-square&color=3178C6&labelColor=0D1117)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🦞 [openclaw](https://github.com/JoseFredes/openclaw)
+
+Your own personal AI assistant. Any OS. Any platform. The lobster way.
+
+![stars](https://img.shields.io/github/stars/JoseFredes/openclaw?style=flat-square&color=7C3AED&labelColor=0D1117)
+![lang](https://img.shields.io/github/languages/top/JoseFredes/openclaw?style=flat-square&color=3178C6&labelColor=0D1117)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎛️ [strudel-ai](https://github.com/JoseFredes/strudel-ai)
+
+Desktop live-coding editor for electronic music — Strudel patterns + AI chat. Tauri 2, CodeMirror 6, WebAudio.
+
+![stars](https://img.shields.io/github/stars/JoseFredes/strudel-ai?style=flat-square&color=7C3AED&labelColor=0D1117)
+![lang](https://img.shields.io/github/languages/top/JoseFredes/strudel-ai?style=flat-square&color=3178C6&labelColor=0D1117)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -121,16 +152,11 @@ const jose = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JoseFredes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7C3AED&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFredes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+<img src="https://streak-stats.demolab.com?user=JoseFredes&theme=tokyonight&hide_border=true&background=0D1117&fire=7C3AED&currStreakLabel=7C3AED" alt="streak" />
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=JoseFredes&theme=tokyonight&hide_border=true&background=0D1117&fire=7C3AED&currStreakLabel=7C3AED" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JoseFredes&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseFredes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true" alt="activity graph" />
 
 </div>
 
